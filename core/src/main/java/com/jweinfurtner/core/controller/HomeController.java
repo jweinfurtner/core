@@ -1,4 +1,4 @@
-package com.jweinfurtner.core;
+package com.jweinfurtner.core.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
